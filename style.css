@@ -1,0 +1,75 @@
+.main{
+    background: url('backlogo.jpg');
+}
+.parent{
+    height: 700px;width: 1200px;background-color: white;margin: auto;border-radius: 20px;margin-top: 35px;
+}
+.header{
+    height: 150px;width: 1200px;border-bottom: 5px solid rgb(218, 63, 63);
+}
+.rcbfront{
+    height: 150px;width: 800px; margin-left: 200px;margin-right: 200px;
+}
+.rcbfrontimg{
+    height: 150px;width: 800px;
+}
+.poster{
+    height: 510px;width: 280px;background-color: rgb(218, 63, 63);float: left;
+}
+.postervideo{
+    height: 500px;width: 280px;margin-left: 10px;margin-bottom: 10px;
+}
+.sub{
+    height: 510px;width: 920px;background-color: rgb(218, 63, 63);float: left;
+}
+.lastsub{
+    height: 45px;width: 1200px;background-color: rgb(255, 255, 255);float: left;
+}
+.sub1{
+    height: 230px;width: 200px;margin-top: 10px;margin-left: 15px;margin-right:15px;margin-bottom: 10px; background-color: black;float: left;
+}
+.sub1img{
+    height: 230px;width: 200px;
+}
+.sub2{
+    height: 230px;width: 200px;margin-top: 10px;margin-left: 15px;margin-right:15px;margin-bottom: 10px; background-color: black;float: left;
+}
+.sub2img{
+    height: 230px;width: 200px;
+}
+.sub3{
+    height: 230px;width: 200px;margin-top: 10px;margin-left: 15px;margin-right:15px;margin-bottom: 10px; background-color: black;float: left;
+}
+.sub3img{
+    height: 230px;width: 200px;
+}
+.sub4{
+    height: 230px;width: 200px;margin-top: 10px;margin-left: 15px;margin-right:15px;margin-bottom: 10px; background-color: black;float: left;
+}
+.sub4img{
+    height: 230px;width: 200px;
+}
+.sub5{
+    height: 230px;width: 200px;margin-top: 10px;margin-left: 15px;margin-right:15px;margin-bottom: 10px; background-color: black;float: left;
+}
+.sub5img{
+    height: 230px;width: 200px;
+}
+.sub6{
+    height: 230px;width: 200px;margin-top: 10px;margin-left: 15px;margin-right:15px;margin-bottom: 10px; background-color: black;float: left;
+}
+.sub6img{
+    height: 230px;width: 200px;
+}
+.sub7{
+    height: 230px;width: 200px;margin-top: 10px;margin-left: 15px;margin-right:15px;margin-bottom: 10px; background-color: black;float: left;
+}
+.sub7img{
+    height: 230px;width: 200px;
+}
+.sub8{
+    height: 230px;width: 200px;margin-top: 10px;margin-left: 15px;margin-right:15px;margin-bottom: 10px; background-color: black;float: left;
+}
+.sub8img{
+    height: 230px;width: 200px;
+}
